@@ -1,7 +1,7 @@
 # Relation_ship
-# Controller
+# One_To_One Controller
 ``
-One_To_One Controller
+
 <?php
 
 namespace App\Http\Controllers;
